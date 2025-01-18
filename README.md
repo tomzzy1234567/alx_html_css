@@ -1,5 +1,9 @@
 # alx_html_css
 Headphones Website Design
+
+
+
+
 Overview
 This repository contains the design files for a headphones website. The design is implemented using Figma and is optimized for both desktop and mobile devices.
 Design Specifications
