@@ -1,1 +1,27 @@
 
+SS
+/* Reset CSS styling */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Use variables */
+:root {
+    --primary-color: #333;
+    --secondary-color: #666;
+    --font-family: Arial, sans-serif;
+}
+
+/* Simple CSS selectors */
+header {
+    background-color: var(--primary-color);
+    padding: 20px;
+    text-align: center;
+}
+
+.header-content {
+    max-width: 1000px;
+    margin: 0 auto;
+}
