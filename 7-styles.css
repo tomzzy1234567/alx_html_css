@@ -1,0 +1,28 @@
+.what-we-do .cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.what-we-do .card {
+    transition: transform 0.3s ease-in-out;
+}
+
+.what-we-do .card:hover {
+    transform: scale(1.1);
+}
+
+.our-results .cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.our-results .card {
+    transition: opacity 0.3s ease-in-out;
+}
+
+.our-results .card:hover {
+    opacity: 0.8;
+    transform: rotate(5deg);
+}
