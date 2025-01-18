@@ -1,30 +1,28 @@
 # alx_html_css
-headphones
-
-
-ALX Simple Quiz
-A simple quiz application designed to test your knowledge.
-Table of Contents
-Project Overview
-Design Details
-Fonts
-Implementation
-Contributing
-License
-Project Overview
-This project is a simple quiz application that allows users to test their knowledge. The application consists of a series of questions, each with multiple-choice answers.
-Design Details
-The design of the application is based on the Figma file provided. The design uses a clean and simple layout, with a focus on usability and accessibility.
+Headphones Website Design
+Overview
+This repository contains the design files for a headphones website. The design is implemented using Figma and is optimized for both desktop and mobile devices.
+Design Specifications
 Fonts
 The design uses two fonts:
-Implementation
-The implementation of the project is based on HTML, CSS, and JavaScript. The application uses a simple quiz logic, where the user selects an answer and the application checks if it is correct.
+Source Sans Pro
+Spin-Cycle-OT
+If these fonts are not installed on your computer, you can download them from the following sources:
+Source Sans Pro: 
+Spin-Cycle-OT: 
+Layout
+The design has a maximum content width of 1000px, centered in the page. The layout switches to a mobile version when the screen width is 480px or less.
+Interactions
+The design includes the following interactions:
+Links: hover and active states are #FF6565
+Buttons: hover and active states have an opacity of 0.9
+Repository Structure
+This repository is part of the alx_html_css repository and is located in the headphones directory.
+File Structure
+The design file is located in the headphones directory and is named README.md.
 Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+If you'd like to contribute to this design, please fork this repository and submit a pull request.
 License
-Distributed under the MIT License. See LICENSE for more information.
-Acknowledgments
-Figma design team for providing the design file.
-Google Fonts for providing the fonts used in the design.
+This design is licensed under the MIT License. See LICENSE for details.
 Contact 08144884282
 odunukan tomiwa odunukanbenjamin@gmail.com
