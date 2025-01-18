@@ -47,7 +47,6 @@ button[type="submit"]:hover {
     background-color: #555;
 }
 
-/* Add animations and constraints on fields */
 input, textarea {
     transition: border-color 0.3s ease-in-out;
 }
