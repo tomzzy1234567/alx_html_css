@@ -4,7 +4,7 @@ Headphones Website Design
 
 
 
-Overview
+Overview:
 This repository contains the design files for a headphones website. The design is implemented using Figma and is optimized for both desktop and mobile devices.
 Design Specifications
 Fonts
