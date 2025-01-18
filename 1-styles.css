@@ -1,1 +1,58 @@
 
+.what-we-do {
+    background-color: #FF6565;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.what-we-do h2 {
+    margin-bottom: 20px;
+}
+
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    width: calc(33.33% - 20px);
+}
+
+.card i {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.card h3 {
+    margin-bottom: 10px;
+}
+
+.holberton-icon {
+    font-family: 'Holberton School';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.holberton-icon-sound:before {
+    content: "\e000";
+}
+
+.holberton-icon-noise-cancellation:before {
+    content: "\e001";
+}
+
+.holberton-icon-comfort:before {
+    content: "\e002";
+}
