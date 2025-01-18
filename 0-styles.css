@@ -15,8 +15,11 @@ header {
     background-color: var(--primary-color);
     padding: 20px;
     text-align: center;
+  background-image: url("images/headphones_hero_1.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
-
 .header-content {
     max-width: 1000px;
     margin: 0 auto;
